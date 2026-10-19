@@ -1,0 +1,6 @@
+framework module Pods_TextHitKitDemo {
+  umbrella header "Pods-TextHitKitDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

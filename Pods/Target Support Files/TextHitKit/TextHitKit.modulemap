@@ -1,0 +1,6 @@
+framework module TextHitKit {
+  umbrella header "TextHitKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

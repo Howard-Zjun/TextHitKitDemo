@@ -1,0 +1,22 @@
+{
+  "name": "TextHitKit",
+  "version": "0.0.1",
+  "summary": "Configurable text hit testing for interactive UIKit labels.",
+  "description": "TextHitKit uses TextKit to map touch locations to matched text\nand character ranges in plain or attributed labels. Configurable\nmatching rules support interactions such as tap-to-lookup words.",
+  "homepage": "https://github.com/Howard-Zjun/TextHitKit",
+  "license": "MIT",
+  "authors": {
+    "Howard": "2548795196@qq.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "swift_versions": "5.0",
+  "source": {
+    "git": "https://github.com/Howard-Zjun/TextHitKit.git",
+    "tag": "0.0.1"
+  },
+  "source_files": "Sources/**/*.swift",
+  "frameworks": "UIKit",
+  "swift_version": "5.0"
+}

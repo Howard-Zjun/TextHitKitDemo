@@ -1,0 +1,23 @@
+PODS:
+  - SnapKit (5.7.1)
+  - TextHitKit (0.0.1)
+
+DEPENDENCIES:
+  - SnapKit
+  - TextHitKit (from `./TextHitKit`)
+
+SPEC REPOS:
+  trunk:
+    - SnapKit
+
+EXTERNAL SOURCES:
+  TextHitKit:
+    :path: "./TextHitKit"
+
+SPEC CHECKSUMS:
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+  TextHitKit: 871c266b532be220dbc4cf4e4586ae58032659ea
+
+PODFILE CHECKSUM: 38991d55ab3e7ef62b06d9b1067b6e94f5b91645
+
+COCOAPODS: 1.17.0
